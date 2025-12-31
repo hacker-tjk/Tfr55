@@ -1,0 +1,7 @@
+aiogram==2.23.1
+g4f==0.5.7.3
+curl_cffi
+huggingface_hub 
+pillow 
+beautifulsoup4 
+requests
